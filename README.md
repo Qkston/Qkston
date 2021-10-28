@@ -68,5 +68,5 @@ I'm a third-year student at the Cherkassy National University. You can see my un
 </br>
 
 <h2>My stats</h2>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=qkston&show_icons=false&hide_border=true&bg_color=0.5,A200FF,FF0000&title_color=EEE3ED&text_color=EEE3ED&include_all_commits=true&border_radius=10&count_private=true">
-<img align="right" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkston&langs_count=3&hide_border=true&bg_color=0.5,FF0000,A200FF&title_color=EEE3ED&text_color=EEE3ED&include_all_commits=true&border_radius=10">
+<img align="left" width="47%" height="195px" src="https://github-readme-stats.vercel.app/api?username=qkston&show_icons=false&hide_border=true&bg_color=0.5,A200FF,FF0000&title_color=EEE3ED&text_color=EEE3ED&include_all_commits=true&border_radius=10&count_private=true">
+<img align="right" width="33%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkston&langs_count=3&hide_border=true&bg_color=0.5,FF0000,A200FF&title_color=EEE3ED&text_color=EEE3ED&include_all_commits=true&border_radius=10">
