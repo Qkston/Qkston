@@ -9,6 +9,10 @@ I'm a third-year student at the Cherkassy National University. You can see my un
 
 <h2 align="center">My skills</h2>
 <p align="center">
+<!--  HTML  -->
+<a href="https://developer.mozilla.org/ru/docs/Web/HTML">
+<img src="https://webref.ru/assets/images/book/html5.png" width="30">
+</a>
 <!--  CSS  -->
 <a href="https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics">
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" width="32">
