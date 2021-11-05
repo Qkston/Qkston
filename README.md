@@ -8,10 +8,10 @@ I'm a third-year student at the Cherkassy National University. You can see my un
 </br>
 
 <h2>My skills</h2>
-<p align="center">
+<div align="center">
 <!--  HTML  -->
 <a href="https://developer.mozilla.org/ru/docs/Web/HTML">
-<img  src="https://webref.ru/assets/images/book/html5.png" width="30">
+<img src="https://webref.ru/assets/images/book/html5.png" width="30">
 </a>
 <!--  CSS  -->
 <a href="https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics">
@@ -41,12 +41,12 @@ I'm a third-year student at the Cherkassy National University. You can see my un
 <a href="https://docs.microsoft.com/ru-ru/dotnet/csharp/">
 <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="32">
 </a>
-</p>
+</div>
 
 </br>
 
 <h2>Contacts</h2>
-<p align="center">
+<div align="center">
 <!-- Gmail -->
 <a href="mailto:qkston22@gmail.com">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="32">
@@ -63,10 +63,12 @@ I'm a third-year student at the Cherkassy National University. You can see my un
 <a href="https://discord.com/users/6952/">
 <img src="https://camo.githubusercontent.com/0ef309f7e0b554033dd25b3ce83015db2f0f8952fb4c31318af095369d3d4453/68747470733a2f2f7669676e657474652e77696b69612e6e6f636f6f6b69652e6e65742f7468652d6d696e6572732d686176656e2d70726f6a6563742f696d616765732f642f64642f446973636f72642e706e672f7265766973696f6e2f6c61746573743f63623d3230313730333038303333353436" width="32">
 </a>
-</p>
+</div>
 
 </br>
 
-<h2>My stats</h2>
-<img align="left" width="47%" height="195px" src="https://github-readme-stats.vercel.app/api?username=qkston&show_icons=false&hide_border=true&bg_color=0.5,A200FF,FF0000&title_color=EEE3ED&text_color=EEE3ED&include_all_commits=true&border_radius=10&count_private=true">
-<img align="right" width="33%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkston&langs_count=3&hide_border=true&bg_color=0.5,FF0000,A200FF&title_color=EEE3ED&text_color=EEE3ED&include_all_commits=true&border_radius=10">
+<h2>Other</h2>
+<!-- <div align=center><img src="https://github-readme-stats.vercel.app/api?username=qkston&show_icons=false&hide_border=true&bg_color=0.5,A200FF,FF0000&title_color=EEE3ED&text_color=EEE3ED&include_all_commits=true&border_radius=10&count_private=true"></div> -->
+
+<div align=center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkston&langs_count=8&hide_border=true&bg_color=0.5,FF0000,A200FF&title_color=EEE3ED&text_color=EEE3ED&include_all_commits=true&border_radius=10"></div>
+
