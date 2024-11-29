@@ -1,10 +1,8 @@
 <h2>Hi <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="32"></h2>
 <p align="center">
-I'm Andrey, a 19 years old. Now i'm student, but in the future i'm front-end developer.
+I'm Andrii, a 22 years old. Software developer.
 </br>
-I'm a third-year student at the Cherkassy National University. You can see my university laboratory programs or courseworks in this <a href="https://github.com/Qkston/University">repo</a>.
-</br>
-Now I'm learning programming language JavaScript and its framework React. For practice I'm markup landing and multi-pages sites and making pet-projects. You can see my ready sites on my <a href="https://qkston.github.io/">site-portfolio</a>.
+I received a bachelor's degree from Cherkasy National University. You can see my university laboratory programs or courseworks in this <a href="https://github.com/Qkston/University">repo</a>.
 </p>
 
 </br>
@@ -14,18 +12,18 @@ Now I'm learning programming language JavaScript and its framework React. For pr
   <table>
     <tr>
       <td>
-        <li>HTML5/CSS3</li>
-        <li>Sass/Less</li>
-        <li>JavaScript</li>
         <li>React</li>
-        <li>C#</li>
+        <li>NodeJS</li>
+        <li>NextJS</li>
+        <li>AWS (Amplify, Cognito, DynamoDB, etc.)</li>
+        <li>Python</li>
       </td>
       <td>
-        <li>JSON</li>
-        <li>AJAX</li>
-        <li>jQuery</li>
-        <li>Webpack</li>
-        <li>OOP</li>
+        <li>GraphQL</li>
+        <li>REST API</li>
+        <li>HTTP(S)/WebSocket/MQTT</li>
+        <li>PostgreSQL</li>
+        <li>OpenAI API</li>
       </td>
       <td>
         <li>Git</li>
@@ -47,7 +45,7 @@ Now I'm learning programming language JavaScript and its framework React. For pr
       <td>
         <li><a href="mailto:qkston22@gmail.com">Gmail</a> - conveniently, but long</li>
         <li><a href="https://t.me/qkston">Telegram</a> - conveniently and fast</li>
-        <li><a href="https://www.instagram.com/andrey_slynko/">Instagram</a> - my life</li>
+        <li><a href="https://www.instagram.com/andrii_slynko/">Instagram</a> - my life</li>
         <li><a href="https://discord.com/users/6952/">Discord</a> - call or videocall (as an alternative: google meet)</li>
       </td>
     </tr>
